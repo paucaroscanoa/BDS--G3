@@ -19,3 +19,9 @@ git checkout "nombre" - "posiciona en el rama indicada "nombre"
 ## si creas un nuevo archivo en esta rama en la carpeta se mostrará solo esta"
 ## importante entender en que rama esta trabajando
 
+## nuevos compandos
+## Ver estados - git status
+## agregar cambios al staging - git add .
+## guatrdar cambios al repositorio loacal - git commit -m "descripción"
+## ver historico de cambios  - git log
+
