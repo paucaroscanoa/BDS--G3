@@ -7,6 +7,5 @@ Para activar python - python
 ```
 
 ### REPL -read-eval-print-loop
-```
-[Usar la shell de Python (REPL Python)](https://elpythonista.com/python-shell-repl)
-```
+![Usar la shell de Python (REPL Python)](https://elpythonista.com/python-shell-repl)
+
