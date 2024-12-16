@@ -32,5 +32,6 @@ Ver estados - git status
 Agregar cambios al staging - git add .
 Guatrdar cambios al repositorio loacal - git commit -m "descripción"
 Ver historico de cambios  - git log
+para borrar lo que ha ido escribiendoe en git bash - clear
 ```
 
