@@ -12,7 +12,7 @@
 
 # ___________________________________________________________________
 
-## ls "Muestra la ruta en la que se encuentra"
+### ls "Muestra la ruta en la que se encuentra"
 ## cd "ruta" -  "posiciona git bus en la carpeta indicada"
 ## git branch "muestra las ramas existentes
 ## git branch "nombre" - "crea nueva rama"
