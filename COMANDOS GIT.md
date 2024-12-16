@@ -1,6 +1,7 @@
 ## COMANDOS GIT
 
 # COMANDOS 
+'''
 git clone "url" "clona en una ubicación de tu disco la carpeta del repositorio"
 git status "muestra si algún archivo tuvo cambios"
 git restore . "Borra los cambios antes del commit"
@@ -9,8 +10,9 @@ git status "muestras modified: en verde"
 git commit -m "descripción" "Para guardar en el repositorio"
 git log "muestra todos los cambios realizados"
 git push origin master "cambios en el repositorio de git hub"
+'''
 
-# ___________________________________________________________________
+
 
 ls "Muestra la ruta en la que se encuentra"
 cd "ruta" -  "posiciona git bus en la carpeta indicada"
