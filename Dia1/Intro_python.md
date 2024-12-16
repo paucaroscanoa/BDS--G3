@@ -9,3 +9,7 @@ Para activar python - python
 ### REPL -read-eval-print-loop
 [Usar la shell de Python ](https://elpythonista.com/python-shell-repl)
 
+## Compilar python
+```
+Para compilar debe generar un archivo nombre.py , iniciar git bash en la carpeta donde se encuentra el archivo, indicar "python 1.hola_mundo.py"
+```
