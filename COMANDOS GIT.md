@@ -10,7 +10,7 @@
 ## git log "muestra todos los cambios realizados"
 ## git push origin master "cambios en el repositorio de git hub"
 
-#___________________________________________________________________
+# ___________________________________________________________________
 
 ## ls "Muestra la ruta en la que se encuentra"
 ## cd "ruta" -  "posiciona git bus en la carpeta indicada"
